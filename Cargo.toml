@@ -10,3 +10,7 @@ bitflags = "2.4.1"
 lazy_static = "1.4.0"
 rand = "0.8.5"
 sdl2 = "0.35.2"
+
+[[bin]]
+name = "tile_viewer"
+path = "src/tile_viewer.rs"
